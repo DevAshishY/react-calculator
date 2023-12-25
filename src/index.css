@@ -1,0 +1,12 @@
+body{
+  background: khaki;
+}
+input[type="text"] {
+  font-size: 50px;
+  height: 150px;
+  border: none;
+  width: 100%;
+  background: transparent;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.7);
+}
